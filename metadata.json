@@ -1,6 +1,9 @@
 {
     "name": "ELOGT",
     "symbol": "ELO",
-    "description": "Creating a Fairer Social Economy.",
-    "image": "https://github.com/elogt-crypto/elogt-assets/blob/main/elogt.png"
-  }
+    "description": "A business Token build for business purpose",
+    "image": "https://raw.githubusercontent.com/elogt-crypto/elogt-assets/main/elogt-tan.png",
+    "external_url": "",
+    "creators": null,
+    "seller_fee_basis_points": 0
+}
